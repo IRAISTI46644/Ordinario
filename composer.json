@@ -1,0 +1,12 @@
+{
+    "name": "irais/peliculas",
+    "autoload": {
+        "psr-4": {
+            "irais\\peliculas\\": "src/"
+        }
+    },
+    "require": {
+        "fpdf/fpdf": "^1.86",
+        "setasign/fpdf": "^1.8"
+    }
+}
